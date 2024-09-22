@@ -1,8 +1,9 @@
-[![Latest Stable Version](https://poser.pugx.org/web-builder-sdk/templates/v/stable)](https://packagist.org/packages/web-builder-sdk/templates)
-[![Total Downloads](https://poser.pugx.org/web-builder-sdk/templates/downloads)](https://packagist.org/packages/web-builder-sdk/templates)
-[![Latest Unstable Version](https://poser.pugx.org/web-builder-sdk/templates/v/unstable)](https://packagist.org/packages/web-builder-sdk/templates)
-[![composer.lock](https://poser.pugx.org/web-builder-sdk/templates/composerlock)](https://packagist.org/packages/web-builder-sdk/templates)
-[![License](https://poser.pugx.org/web-builder-sdk/templates/license)](https://packagist.org/packages/web-builder-sdk/templates)
+[![Latest Stable Version](https://img.shields.io/packagist/v/web-builder-sdk/templates.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/templates)
+[![Total Downloads](https://img.shields.io/packagist/dt/web-builder-sdk/templates.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/templates)
+[![Daily Downloads](https://img.shields.io/packagist/dd/web-builder-sdk/templates.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/templates)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/web-builder-sdk/templates.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/templates)
+[![License](https://img.shields.io/packagist/l/web-builder-sdk/templates.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/templates)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/web-builder-sdk/templates/php)](https://packagist.org/packages/web-builder-sdk/templates)
 
 # Web Builder Templates by Hung Nguyen
 
