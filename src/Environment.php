@@ -11,8 +11,8 @@ namespace nguyenanhung\Platforms\WebBuilderSDK\WebBuilderTemplates;
  */
 interface Environment
 {
-    const VERSION = '2.0.0';
-    const LAST_MODIFIED = '2023-03-07';
+    const VERSION = '2.0.1';
+    const LAST_MODIFIED = '2024-09-22';
     const AUTHOR_NAME = 'Hung Nguyen';
     const AUTHOR_EMAIL = 'dev@nguyenanhung.com';
     const PROJECT_NAME = 'Web Builder SDK Platform - Templates Packages by Hung Nguyen';
